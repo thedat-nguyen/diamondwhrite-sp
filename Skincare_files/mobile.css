@@ -1,0 +1,616 @@
+@media(max-width: 991px) {
+    .rg-topmenu { 
+        height: auto;
+        padding: 10px 0;
+    } 
+    .rg-login a{
+        font-weight: 700;
+        font-size: 11px;
+        line-height: 9px;
+        text-transform: uppercase;
+        display: inline-block;
+        color: #ffffff;
+        padding: 9px 8px;
+        border-radius: 16px;
+        background: #dfb0aa;
+    }
+    .rg-mb-menu{ 
+        display: flex;
+    }
+    .videobannersection {
+        padding: 13px 0;
+        margin-bottom: 12px;
+        background: #ffece9 !important;
+    }
+    .rg-title h2 {
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .rg-title span {
+        display: block;
+        padding-top: 3px;
+        font-size: 16px;
+        font-weight: 100;
+    }
+    .rg-title {
+        padding-bottom: 13px;
+    }
+    .rg-presenter {
+        position: relative;
+        padding: 20px 0;
+        margin-top: 0px;
+    }
+    .cta-text .cta-title {
+        font-size: 24px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    padding-bottom: 12px;
+    color: #dfb0aa;
+    }
+    .cta-text .cta-sum {
+        padding-bottom: 28px;
+        letter-spacing: 1px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .cta-text .cta-sum2{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .ctawhite .cta-text{
+        padding-bottom: 13px;
+    }
+    .triplogo{
+        width: 260px; 
+    }
+    .about-top h1 { 
+        padding-top: 23px !important;
+        padding-bottom: 23px !important; 
+        letter-spacing: 2px !important;
+    }
+    .about-video{
+        width: 90% !important; 
+    }
+    .about-time-center {
+        margin: auto;
+        width: 100% !important;
+    }
+    .timeline .timeline-item:after{
+        left: 0px !important;
+    }
+    .timeline::after{
+        left: 5px !important;
+    }
+    .timeline .timeline-item{
+        padding-left: 20px;
+    }
+    .product-page-menu h1 {
+        text-align: center;
+        padding-top: 10px;
+        font-size: 14px;
+        font-weight: 700;
+        letter-spacing: 0px;
+        padding-bottom: 10px;
+    }
+    .product-page-menu ul {
+        padding: 0px;
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        padding-bottom: 10px;
+    }
+    .product-page-menu ul li a {
+        font-size: 14px;
+        font-weight: 700;
+        padding: 1px 5px;
+        border-radius: 18px;
+        transition: all .3s cubic-bezier(0,0,.5,1);
+        border: 2px solid #fff;
+        margin: 0 4px;
+        text-align: center;
+        line-height: 18px;
+        height: 48px;
+        display: flex;
+        align-items: center;
+    }
+    .banner-page-overlay{
+        display: none;
+    }
+    .rg-productlist {
+        margin-top: 16px;
+    }
+    .rg-productlist .mb-4{
+        margin-bottom: 1rem!important;
+    }
+    .join-us-now {
+        margin-top: 15px !important;
+    }
+    .joinus-h1 {
+        font-size: 26px !important;
+        text-align: center !important;
+        font-weight: 700 !important;
+        color: #dfb0aa !important;
+        margin-top: 18px;
+    }
+    .joinus-sum {
+        margin-top: 12px;
+        margin-bottom: 9px !important;
+        background: #fff4f3;
+        padding: 7px 10px;
+        border-radius: 16px;
+        border: 1px solid #f3dad7;
+        line-height: 21px;
+        font-size: 15px;
+    }
+    .join-us-now .form-label {
+        margin-bottom: 0.1rem;
+        font-size: .875rem;
+        color: #1e2022;
+    }
+    .rg-pagging .justify-content-between{
+        justify-content: space-evenly !important;
+    }
+    .new-page-menu ul li a {
+        font-size: 14px;
+        font-weight: 600;
+        display: block;
+        padding: 5px 0px;
+        border-radius: 6px;
+        transition: all .3s cubic-bezier(0,0,.5,1);
+        border: 1px solid #ffe6e6;
+        text-align: center;
+        line-height: 17px;
+        background: #ffecea;
+    }
+    .new-page-menu ul {
+        padding: 12px 0;
+        display: flex;
+        align-content: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .new-page-menu ul li {
+        width: 50%;
+        padding: 4px 2px;
+    }
+    .rg-newsview {
+        margin-top: 18px;
+    }
+    .rg-right-content {
+        box-shadow: none;
+        transition: all .3s cubic-bezier(0,0,.5,1);
+        border-radius: 18px;
+        padding: 0;
+    }
+    .rg-news-title h1 {
+        font-size: 22px;
+        font-weight: 700;
+    }
+    .rg-news-title {
+        margin-bottom: 5px;
+    }
+    .slogan{
+        font-size: 6px;
+        height: 17px;
+        line-height: 19px;
+        letter-spacing: 2px;
+    }
+    .club-se2 {
+        padding: 15px 0 !important;
+    }
+    .club-se2 h2.se2-title {
+        text-align: center;
+        font-weight: 700;
+        font-size: 23px !important;
+        padding-bottom: 14px !important;
+        color: #dfb0aa;
+    }
+    .club-se2 span.se2-sum2 {
+        text-align: center;
+        display: block;
+        font-size: 18px !important;
+    }
+    .d-trip-gl-item {
+        border-radius: 16px;
+        overflow: hidden;
+        margin-bottom: 10px !important;
+        position: relative;
+    }
+    .club-se1 h1 {
+        text-align: center;
+        font-weight: 700;
+        font-size: 23px !important;
+        padding-bottom: 12px !important;
+        color: #dfb0aa;
+    }
+    .club-se2 h2.se2-h2{
+        font-size: 35px !important;
+    }
+    .dealer-club .d-trip-gl-item{
+        margin-bottom: 0px !important;
+    }
+    .flextomovie > div:nth-child(1) {
+        width: 100%;
+    }
+    .flextomovie > div:nth-child(2) {
+        width: 100%;
+    }
+    .menuabout ul li {
+        width: 50%;
+    }
+    .menuabout ul li a {
+        font-weight: 700;
+        display: block;
+        text-align: center;
+        border: 1px solid #f7c4c4;
+        padding: 1px 0px;
+        margin: 3px 3px;
+        border-radius: 7px;
+        background: #ffeded;
+    }
+    .menuabout ul {
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+    .about-page .gototop{ 
+    bottom: 89px; 
+    font-size: 13px; 
+    }
+    .about-top {
+        position: relative;
+        padding-bottom: 15px !important;
+    }
+    .about-us .display-4{
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .about-us .lead{
+        font-size: 16px;
+    font-weight: 400;
+    text-align: justify;
+    }
+    .mobile-mt{
+        margin-top: 13px !important;
+    }
+    .mobile-mb{
+        margin-bottom: 13px !important;
+    }
+    .mobile-pt{
+        padding-top: 13px !important;
+    }
+    .mobile-pb{
+        padding-bottom: 13px !important;
+    }
+    .about-time{
+
+    }
+    .about-time h2{
+        font-size: 19px !important;
+    }
+    .about-time-center h5{
+        font-size: 16px;
+    }
+    .about-time-center .timeline-item{
+        margin-bottom: 17px !important; 
+    }
+    .about-founder h2 {
+        font-size: 1.5rem !important;
+        font-weight: 400 !important;
+        padding-bottom: 27px !important;
+    }
+    .about-founder {
+        background: #fff6f5;
+        padding: 20px 0 !important;
+    }
+    .founder-item {
+        position: relative;
+        margin-bottom: 31px;
+    }
+    .fouder-sum{
+        letter-spacing: 0px !important;
+    }
+    .founder-name{
+        font-size: 30px !important;
+    }
+    .founder-s2 .mb-4{
+        text-align: justify;
+    }
+    .founder-page h1.display-6{
+        font-weight: 500;
+        margin-top: 13px;
+        margin-bottom: 4px !important;
+    }
+    .fd-chuc{
+        margin-bottom: 4px !important;
+        font-style: italic;
+        color: #ffb6b6;
+    }
+    .mb-border-bt{
+        border-bottom: 1px solid #ffd4d4;
+        margin-bottom: 4px !important;
+        padding-bottom: 33px;
+        padding-top: 14px;
+    }
+    .founder-s1 {
+        padding: 0px 0 !important;
+    }
+    .vision h1 {
+        text-align: center;
+        font-weight: 700;
+        font-size: 30px !important;
+        padding-top: 18px !important;
+        padding-bottom: 15px !important;
+        color: #dfb0aa;
+    }
+    .vision2 {
+        margin: 20px 0;
+        margin-top: 2px !important;
+    }
+    .vision2 h2{
+        font-size: 20px !important;
+    }
+    .vi2item{
+        margin-bottom: 15px !important;
+        margin-top: 0px !important;
+    }
+    .headline-event{
+        width: 90% !important;
+    }
+    .gevent-hl-bg{
+        padding: 13px 0 !important;
+    }
+
+
+    .events-page .card_news h3 a {
+        color: #fff;
+        font-size: 19px;
+        font-weight: 500;
+        padding-bottom: 5px;
+    }
+    .events-page .card_news{
+        margin-bottom: 20px !important;
+        border-bottom: 1px solid #77485c;
+        padding-bottom: 16px !important;
+    }
+    .event-times {
+        margin-bottom: 7px !important;
+    }
+    .event-times span {
+        background: #f92772;
+        padding: 3px 10px !important;
+        border-radius: 5px !important;
+        font-size: 13px !important;
+    }
+    .event-times .card_news h3 {
+        margin-top: 5px;
+        font-weight: 600;
+        font-size: 19px !important;
+        line-height: 22px !important;
+        margin-bottom: 5px !important;
+    }
+    .event-sum p {
+        font-size: 13px;
+    }
+    .trip-title h1 {
+        font-size: 32px !important;
+        font-weight: 700;
+        text-shadow: 2px 4px 16px rgba(0,0,0,.16);
+        letter-spacing: 5px !important;
+    }
+    .trip-carol {
+        position: relative;
+        height: inherit !important;
+    }
+    .trip-title{
+        bottom: 13px !important;
+    }
+    .trip-title span {
+        font-size: 18px !important;
+        font-weight: 100;
+        display: block;
+        padding: 2px 0px !important;
+        text-shadow: 2px 4px 16px rgba(0,0,0,.16);
+        letter-spacing: 2px !important;
+    }
+    .lifestyle-rewards #section-2 .info-banner {
+        color: #ffffff;
+        padding: 18px 2% !important;
+        text-align: center;
+    }
+    .lifestyle-rewards #section-2 .info-banner .banner-tagline {
+        letter-spacing: 1px !important;
+        font-size: 22px !important;
+        font-weight: 700;
+        text-transform: uppercase;
+        line-height: 32px !important;
+    }
+    .lifestyle-rewards #section-2 .info-banner .banner-summary{
+        margin-top: 29px !important;
+    }
+    .lifestyle-rewards #section-2 .info-banner .banner-subtext .thin-jns-title {
+        font-size: 22px !important;
+        font-weight: 400;
+        text-transform: uppercase;
+        line-height: 22px !important; 
+        padding-bottom: 0.1em;
+    }
+    .tripvideotitle {
+        text-align: center;
+        color: #dfb0aa;
+        text-transform: uppercase;
+        font-size: 28px !important;
+        font-weight: 100;
+        line-height: 32px;
+    }
+    .videotitle{
+        font-size: 13px;
+    }
+    .lifestyle-rewards .modal-title{
+        font-size: 12px;
+    }
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom: 0;
+        margin-right: 0;
+        font-size: 1.25rem;
+        text-decoration: none;
+        white-space: nowrap;
+        display: block;
+        text-align: center;
+    }
+    .navbar-brand-logo {
+        width: 80%;
+    }
+    .rg-footer-ul{
+
+    }
+    .rg-footer-ul li {
+        padding-bottom: 0 !important;
+    }
+    .rg-footer-ul li a {
+        display: block;
+        text-align: center;
+        border-bottom: 1px solid #fff5f5;
+        padding: 1px 3px;
+        line-height: 22px;
+        padding-bottom: 11px;
+    }
+    .rg-footer-ul li:last-child a{
+        border-bottom: 0px solid #dbdbdb;
+    }
+    .rg-footer h5 {
+        font-weight: 700;
+        font-size: 1rem;
+        text-align: center;
+        margin-top: 5px;
+        background: #ffe7e7;
+        border-radius: 16px;
+        padding: 9px 0;
+    }
+    .videobannersection .utflex {
+        display: flex;
+        gap: 5px;
+        flex-wrap: wrap;
+    }
+
+    .shopingcart-buble{
+        position: fixed;
+        z-index: 99;
+        top: 85%;
+        right: 0px;
+        width: 32px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        background: #7b7b7b8a;
+        padding: 5px;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        padding-bottom: 9px;
+    }
+    .shopingcart-buble i {
+        font-size: 30px;
+        color: #fff;
+        display: block;
+    }
+    .shopingcart-buble .shopingcart-buble-count {
+        position: absolute;
+        top: 15px;
+        right: 0;
+        left: 0;
+        margin: auto;
+        background: #f00;
+        font-size: 11px;
+        width: 23px;
+        text-align: center;
+        color: #fff;
+        height: 18px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        align-content: center;
+        border-radius: 3px;
+        font-weight: 700;
+        padding-top: 0px;
+    }
+    .shopingcart-buble .shopingcart-buble-text {
+        display: block;
+        font-size: 6px;
+        color: #fff;
+        line-height: 13px;
+        padding-top: 5px;
+        text-transform: uppercase;
+        display: none;
+    }
+    .mb-cart-item{
+
+    }
+    .mb-cart-item .col-12{
+        margin-bottom: 10px;
+    }
+    .mb-cart-item .col-4{
+        display: flex;
+        justify-content: flex-end;
+    }
+    .mb-cart-item .col-8 .input-group{
+        justify-content: flex-end;
+    }
+    .muathemsp{
+        justify-content: center !important;
+        margin-bottom: 20px;
+    }
+    .rg-ttck {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        padding: 10px;
+        background: #eaeaea;
+        border-radius: 16px;
+        flex-direction: column;
+    }
+    .tracking-item {
+        border-left: 4px solid #00ba0d;
+        position: relative;
+        padding: 10px !important;
+        font-size: 0.9rem;
+        margin-left: 1rem !important;
+        min-height: 5rem;
+        display: flex;
+        justify-content: flex-start;
+        padding-bottom: 1px !important;
+    }
+    .tracking-item-pending {
+        border-left: 4px solid #d6d6d6;
+        position: relative;
+        padding: 10px !important;
+        font-size: 0.9rem;
+        margin-left: 1rem !important;
+        min-height: 5rem;
+        display: flex;
+        justify-content: flex-start;
+        padding-bottom: 1px !important;
+    }
+    .tracking-item .tracking-date i {
+        color: #00ba0e;
+        font-size: 18px !important;
+    }
+    .tracking-item .tracking-content {
+        font-weight: 600;
+        font-size: 17px;
+        width: 100%;
+        margin-left: 10px;
+    }
+    .tracking-item-pending .tracking-date i {
+        color: #cdcdcd;
+        font-size: 18px !important;
+    }
+    .tracking-item-pending .tracking-content {
+        width: 100%;
+        margin-left: 10px;
+    }
+    .mb-dao{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
